@@ -8,9 +8,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Reference Include="LunaLibrary">
-        <HintPath>..\..\LunaLibrary\LunaLibrary\bin\Debug\net6.0\LunaLibrary.dll</HintPath>
-      </Reference>
+      <PackageReference Include="LunaLibrary" Version="1.0.0" />
     </ItemGroup>
 
 </Project>
